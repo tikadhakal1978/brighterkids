@@ -18,7 +18,7 @@ a:hover {
 }
 
 body {
-    background-color: rgb(65, 71, 97);
+    background-color: rgb(18, 127, 42);
     font-family: sans-serif;
 }
 
@@ -93,4 +93,5 @@ nav {
 .ham-menu.active span:nth-child(3) {
     top: 50%;
     transform: translate(-50%, -50%) rotate(-45deg);
+
 }
